@@ -6,6 +6,10 @@ An interactive Tableau dashboard exploring Spotify track popularity, genres, dan
 
 [View the dashboard on Tableau Public](https://public.tableau.com/views/Spotify_Music_Analytics_pro/SpotifyMusicAnalytics)
 
+## 📷 Dashboard Preview
+
+![Spotify Music Analytics Dashboard](Spotify%20Music%20Analytics.png)
+
 ## 📊 Dashboard Highlights
 
 - Average popularity and track duration
